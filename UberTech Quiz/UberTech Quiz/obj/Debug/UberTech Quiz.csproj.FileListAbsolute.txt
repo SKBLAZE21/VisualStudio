@@ -1,0 +1,11 @@
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\bin\Debug\UberTech Quiz.exe.config
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\bin\Debug\UberTech Quiz.exe
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\bin\Debug\UberTech Quiz.pdb
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\obj\Debug\UberTech Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\obj\Debug\UberTech_Quiz.Form1.resources
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\obj\Debug\UberTech_Quiz.Properties.Resources.resources
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\obj\Debug\UberTech Quiz.csproj.GenerateResource.Cache
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\obj\Debug\UberTech Quiz.exe
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\obj\Debug\UberTech Quiz.pdb
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\obj\Debug\UberTech_Quiz.Form2.resources
+C:\Users\Shubham Kumbhar\Desktop\UberTech Quiz\UberTech Quiz\obj\Debug\UberTech_Quiz.Form3.resources
